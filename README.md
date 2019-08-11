@@ -5,8 +5,10 @@ inclua um breve resumo das metas do projeto, a abordagem b´asica a ser seguida 
 
 Metas do projeto:
 
+
 Abordagem básica:
 
 Resultados previstos:
+Gerar modelos declarativos de uma classe de descrições estruturadas de processos de negócio.
 
 Bibliografia:
