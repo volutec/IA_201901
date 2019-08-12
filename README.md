@@ -16,4 +16,5 @@ Gerar modelos declarativos de uma classe de descrições estruturadas de process
 Bibliografia:
 
 DUMAS, Marlon et al. Fundamentals of business process management. [S.l.]: Springer, 2013. v.1
+
 COSTA, Mateus Barcellos; TAMZALIT, Dalila. Recommendation patterns for business process imperative modeling. In: ACM. Proceedings of the Symposium on Applied Computing . [S.l.], 2017. p. 735–742
