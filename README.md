@@ -1,20 +1,26 @@
 # IA_201901
-Trabalho 4 da matéria de IA
-
-inclua um breve resumo das metas do projeto, a abordagem b´asica a ser seguida e os resultados previstos junto com a bibliograﬁa relevante. Envie a URL do reposit´orio para o professor de IA at´e 12 de agosto de 2019 via AVA.
+Trabalho 4 da matéria de IA - semestre 01/2019.
 
 Metas do projeto:
 - Utilizar lógica de primeira ordem para geração de sentenças declarativas de requisitos de negócio baseadas nos "padrões de recomendação" proposto por Costa e Tamzalit (2017);
 - Verificar a assertividade dos modelos gerados.
 
 Abordagem básica:
-
+- A partir de sentenças previamente descritas, executar transformações para obtenção das estruturas declarativas.
 
 Resultados previstos:
-Gerar modelos declarativos de uma classe de descrições estruturadas de processos de negócio.
+Obter os modelos declarativos resultantes de um conjunto de descrições estruturadas de processos de negócio.
 
 Bibliografia:
 
 DUMAS, Marlon et al. Fundamentals of business process management. [S.l.]: Springer, 2013. v.1
 
 COSTA, Mateus Barcellos; TAMZALIT, Dalila. Recommendation patterns for business process imperative modeling. In: ACM. Proceedings of the Symposium on Applied Computing . [S.l.], 2017. p. 735–742
+
+AA, H. van der et al. Extracting declarative process models from natural language. In:SPRINGER. International Conference on Advanced Information Systems Engineering.[S.l.], 2019. p. 365–382
+
+FAVERO, Eloi Luiz. Programação em Prolog.Http://Favero.Ufpa.Br/Capmain2006.Pdf, p. 235–242, 2006. Disponível em: <http://favero.ufpa.br/capmain2006.pdf>.
+
+
+
+
