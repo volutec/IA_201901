@@ -9,7 +9,7 @@ Abordagem básica:
 - A partir de sentenças previamente descritas, executar transformações para obtenção das estruturas declarativas.
 
 Resultados previstos:
-Obter os modelos declarativos resultantes de um conjunto de descrições estruturadas de processos de negócio.
+- Obter os modelos declarativos resultantes de um conjunto de descrições estruturadas de processos de negócio.
 
 Bibliografia:
 
