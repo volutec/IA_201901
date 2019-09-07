@@ -25,3 +25,4 @@ O modelo de template de conferência utilizado é da AAAI.
 
 Abaixo imagem da execução do Chatterbot:
 ![alt text](https://raw.github.com/volutec/IA_201901/Chatter.png)
+![Screenshot](Chatter.png)
