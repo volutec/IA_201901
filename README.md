@@ -21,6 +21,6 @@ AA, H. van der et al. Extracting declarative process models from natural languag
 
 FAVERO, Eloi Luiz. Programação em Prolog.Http://Favero.Ufpa.Br/Capmain2006.Pdf, p. 235–242, 2006. Disponível em: <http://favero.ufpa.br/capmain2006.pdf>.
 
-
+O modelo de template de conferência utilizado é da AAAI.
 
 
