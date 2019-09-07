@@ -23,7 +23,7 @@ FAVERO, Eloi Luiz. Programação em Prolog.Http://Favero.Ufpa.Br/Capmain2006.Pdf
 
 O modelo de template de conferência utilizado é da AAAI.
 
-Abaixo imagem da execução do Chatterbot:
+Abaixo imagem da execução do Chatterbot. O texto em <span style="color: yellow">amarelo</span> é a 'fala' do Chatterbot CH, em branco as falas do usuário USU e em <span style="color: green">verde</span> as execuções relacionadas à lógica do Prolog:
 
 
 ![Screenshot](Chatter.png)
