@@ -1,4 +1,5 @@
 /*
+Recomendações propostas por (Costa e Tamzalit, 2017).
 • Independência. 
 				Um conjunto de objetos de ﬂuxo ativos sem restrições de execução. 
 
@@ -17,13 +18,6 @@
 		Um conjunto de objetos de ﬂuxo onde eles podem coexisitr no mesmo ﬂuxo ou separadamente.
 
 A situação de não-coexistência ou união é denominado Conjunto de escolha ("Choice Set").
-
-Dúvidas:
-:: Como identificar sub-fluxos para poder verificar a Não-coexistência no sub-fluxo?
-
-Buffer (memória de informações soltas):
-CH: Formato: <Tarefa A> inicia.
-CH: Formato: <Tarefa Z> finaliza.
 
 */
 
@@ -88,7 +82,7 @@ import alice.tuprolog.*;
 			e.printStackTrace();
 		};
 
-/////////////////////////////////////////
+		// nome do processo ///////////////////////////////////////
 		System.out.println("\u001B[33m \nCH: Qual o nome do processo?\u001B[0m"); 
 		System.out.print("USU: "); 
  
@@ -118,7 +112,7 @@ import alice.tuprolog.*;
 			e.printStackTrace();
 		};
 
- /////////////////////////////////////////
+ 		// Objetos de fluxo do processo - Dominio ///////////////////////////////////////
 		System.out.println("\u001B[33m \nCH: Quais os objetos de fluxo do processo? Separe com virgulas.\u001B[0m"); 
 		System.out.print("USU: "); 
 
@@ -162,7 +156,7 @@ import alice.tuprolog.*;
 			e.printStackTrace();
 		};
 
-///////////////////////////////////////// Situations
+		// Situations /////////////////////////////////////// 
 		// Booleanos para invocar as clausulas para as Situations e montagem do Predicado Modelo.
 		boolean regraDepEstrita = false;
 		boolean regraDepCircunstancial = false;
