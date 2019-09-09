@@ -23,26 +23,6 @@ FAVERO, Eloi Luiz. Programação em Prolog.Http://Favero.Ufpa.Br/Capmain2006.Pdf
 
 O modelo de template de conferência utilizado é da AAAI.
 
-Os fontes estão no diretório source.
-Para executar:
-- Você precisa ter o java 8 instalado na máquina. Verifique digitando o comando abaixo:
-```sh
-java -version
-```
-- Você precisa do tuProlog, arquivo 2p-4.0.0.jar presente em  http://apice.unibo.it/xwiki/bin/view/Tuprolog/WebHome
-- Extraia o conteúdo do arquivo 2p-4.0.0.jar no mesmo diretório dos arquivos presentes em source
-```sh
-jar xvf 2p-4.0.0.jar
-```
-- Execute o seguinte comando para compilar:
-```sh
-javac Chatter.java
-```
-- Execute o comando para executar:
-```sh
-java Chatter
-```
-
 Abaixo imagem da execução do Chatterbot. O texto em <span style="color: yellow">amarelo</span> é a 'fala' do Chatterbot CH, em branco as falas do usuário USU e em <span style="color: green">verde</span> as execuções relacionadas à lógica do Prolog:
 
 
