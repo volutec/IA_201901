@@ -1,4 +1,4 @@
-# IA_201901
+# Inteligência Artifical 2019/01.
 Trabalho 4 da matéria de IA - semestre 01/2019.
 
 Metas do projeto:
