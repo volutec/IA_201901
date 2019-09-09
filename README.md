@@ -25,8 +25,10 @@ O modelo de template de conferência utilizado é da AAAI.
 
 Os fontes estão no diretório source.
 Para executar:
-- Você precisa ter o java 8 instalado na máquina. Verifique digitando o coamndo abaixo:
+- Você precisa ter o java 8 instalado na máquina. Verifique digitando o comando abaixo:
+```sh
 java -version
+```
 - Você precisa do tuProlog, arquivo 2p-4.0.0.jar presente em  http://apice.unibo.it/xwiki/bin/view/Tuprolog/WebHome
 - Extraia o conteúdo do arquivo 2p-4.0.0.jar no mesmo diretório dos arquivos presentes em source
 - Execute o comando abaixo para compilar:
