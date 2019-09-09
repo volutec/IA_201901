@@ -1,4 +1,4 @@
-# Inteligencia Artificial - Como executar.
+# Inteligencia Artificial - Como executar o Chatterbot deste projeto.
 
 Para executar:
 - Você precisa ter o java 8 instalado na máquina. Verifique digitando o comando abaixo:
